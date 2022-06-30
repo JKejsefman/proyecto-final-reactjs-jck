@@ -58,24 +58,12 @@ Please keep in mind that no further libraries or frameworks were used on this pr
    
 
 ## How to Use:
-1. Browse through the store and filter by category (game). Select the desired product(s) and add it to the cart
+1. Browse through the store and filter by category. Select the desired product(s) and add it to the cart
 2. Go to the shopping cart and review selected items.
 4. Fill the required information in the form located on the right-hand side.
 5. Complete the purchase by clicking the green button that's labeled with the same legend.
 
 
 
-## End User Purchase Demo:
-Here's a short demo showing the normal flow a user will go through when buying an item on the site:
 
-
-![purchase demo](https://user-images.githubusercontent.com/67163082/161161268-5f58475b-f7e6-4d8b-b9a3-68afeae464e1.gif)
-
-
-
-## Project Diagram:
-Below is a flowchart showing the overall structure of the project for better oversight and understanding:
-
-
-![Proyecto-CoderHouseReact js drawio (4)](https://user-images.githubusercontent.com/67163082/161132627-53400ec4-d8d2-4144-952d-43a6da9f13ae.png)
 "# proyecto-final-reactjs-jck" 
