@@ -66,4 +66,10 @@ Please keep in mind that no further libraries or frameworks were used on this pr
 
 
 
+
+![20220630_053427](https://user-images.githubusercontent.com/93671912/176581418-02f22c26-138c-476d-a6ee-6bba1066ddc9.gif)
+
+
+
+
 "# proyecto-final-reactjs-jck" 
