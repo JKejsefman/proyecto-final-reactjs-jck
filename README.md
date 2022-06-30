@@ -46,7 +46,7 @@ Please keep in mind that no further libraries or frameworks were used on this pr
    
 6. Clone the project on your PC. On the command line, run the following command: 
    
-   **gh repo clone https://github.com/NPersivale/Proyecto-CoderhouseReactJS.git**
+   **gh repo clone https://github.com/JKejsefman/proyecto-final-reactjs-jck.git**
    
 7. Install the necessary repository dependencies. On the command line, run the following command:
 
